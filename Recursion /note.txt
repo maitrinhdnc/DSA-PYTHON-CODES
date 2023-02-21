@@ -1,0 +1,8 @@
+1. a way of solving problem by having a function calling itself
+2. Write in 3 steps: 
+    a. Execute same operation multiple times with different inputs
+    b. Current input will smaller before inputs
+    c. Base condition to terminate recursion 
+3. Used in many algorithms (divide and conquer, greedy, dynamic programming)
+
+Recursion is save in stack memory 
