@@ -1,0 +1,7 @@
+4 type of Linked List
+- Single Linked list
+- Circular Linked List
+- Doubly Linked List
+- Circular Doubly Linked list
+
+Mỗi node được tạo ra trong linked list được gán random trong ô nhớ 
